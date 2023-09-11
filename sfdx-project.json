@@ -3,6 +3,10 @@
     {
       "path": "mainApp",
       "default": true
+    },
+    {
+      "path": "src/developer",
+      "default": false
     }
   ],
   "name": "CopadoDX",
