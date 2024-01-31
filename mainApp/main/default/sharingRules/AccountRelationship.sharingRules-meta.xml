@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingOwnerRules>
+        <fullName>AAR_Share_with_Canada_Users</fullName>
+        <accessLevel>Edit</accessLevel>
+        <description>Test Account Relationship Sharing Rule</description>
+        <label>AAR Share with Canada Users</label>
+        <sharedTo>
+            <role>CEO</role>
+        </sharedTo>
+        <sharedFrom>
+            <role>CEO</role>
+        </sharedFrom>
+    </sharingOwnerRules>
+</SharingRules>
