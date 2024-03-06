@@ -15,7 +15,7 @@
     <loginHours n1:nil="true" />
     <userLicense>Salesforce</userLicense>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false////</enabled>
         <name>AIViewInsightObjects</name>
     </userPermissions>
     <userPermissions>
