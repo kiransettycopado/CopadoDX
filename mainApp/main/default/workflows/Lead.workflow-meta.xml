@@ -8,6 +8,6 @@
             <operation>equals</operation>
             <value>Hyderabad</value>
         </criteriaItems>
-        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+        <triggerType>onCreateOnly</triggerType>
     </rules>
 </Workflow>
